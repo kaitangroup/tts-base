@@ -50,7 +50,6 @@ dependencies[] = libraries
 dependencies[] = list
 dependencies[] = node_reference
 dependencies[] = pathauto
-dependencies[] = path_breadcrumbs_ui
 dependencies[] = page_manager
 dependencies[] = storage
 dependencies[] = storage_core_bridge

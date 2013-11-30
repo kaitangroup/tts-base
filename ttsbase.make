@@ -22,6 +22,7 @@ projects[] = storage_api
 projects[] = token
 projects[] = views
 projects[] = wysiwyg
+projects[] = zen
 
 
 

@@ -3,6 +3,7 @@ api = 2
 
 ; Contrib Modules
 projects[] = calendar
+projects[] = module_filter
 projects[] = ctools
 projects[] = ckeditor
 projects[] = date
@@ -29,15 +30,10 @@ projects[] = zen
 ; Translations
 ;translations[] = es
 
-; Libraries
- Zend_Gdata
-libraries[zend_gdata][download][type] = get
-libraries[zend_gdata][download][url] = https://packages.zendframework.com/releases/ZendGdata-1.12.3/ZendGdata-1.12.3.tar.gz
-libraries[zend_gdata][destination] = libraries
 
 ; CKEditor
 libraries[ckeditor][download][type]= "get"
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.1.1/ckeditor_4.1.1_full.zip"
+libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.3.2/ckeditor_4.3.2_standard.zip"
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][destination] = "libraries"
 

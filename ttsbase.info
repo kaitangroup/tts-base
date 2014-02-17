@@ -48,6 +48,7 @@ dependencies[] = googleanalytics
 dependencies[] = imce_wysiwyg
 dependencies[] = libraries
 dependencies[] = list
+dependencies[] = module_filter
 dependencies[] = node_reference
 dependencies[] = pathauto
 dependencies[] = page_manager

@@ -2,6 +2,8 @@ core = 7.x
 api = 2
 
 ; Contrib Modules
+projects[] = admin_menu
+projects[] = backup_migrate
 projects[] = calendar
 projects[] = module_filter
 projects[] = ctools
